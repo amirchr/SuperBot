@@ -1,0 +1,10 @@
+{
+  "name": "SuperBot",
+  "version": "1.0.0",
+  "description": "A bot designed to keep track of resources in the Masks rpg game",
+  "main": "bot.js",
+  "author": "Amir Chraibi",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
